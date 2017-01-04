@@ -1,4 +1,4 @@
-# Script Context
+# Script Global Variables
 
 The following global variables are injected into every Script at runtime:
 
