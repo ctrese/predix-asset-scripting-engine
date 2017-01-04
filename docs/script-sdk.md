@@ -1,4 +1,4 @@
-# Script SDK
+# Script Utility Methods
 
 Every Script is injected with the `$` global variable, which contains a set of utility methods. The utility methods available to a Script may change depending on its execution mode and/or the REST method of the request it is processing. All utility methods are documented below:
 
